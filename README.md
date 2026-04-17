@@ -5,6 +5,12 @@ A data-driven **HR Analytics Dashboard** built using **Tableau** to analyze empl
 > 🚀 Designed for data-driven decision-making in HR.
 
 ---
+## 🌐 Live Dashboard (Tableau Public)
+
+👉 **View Interactive Dashboard:**  
+🔗 [Click here to explore the dashboard](https://public.tableau.com/app/profile/tanmay.khedekar/viz/HRDashboard_17394575535210/HRSummary)
+
+> 📌 Fully interactive — use filters, hover insights, and explore trends in real time.
 
 ## 📌 Project Overview
 
