@@ -13,9 +13,6 @@ A data-driven **HR Analytics Dashboard** built using **Tableau** to analyze empl
 > 📌 Fully interactive — use filters, hover insights, and explore trends in real time.
 
 ## 📸 Dashboard Preview
-
-> ⚠️ Upload your screenshot first (recommended name: `dashboard.png`)
-
 <p align="center">
   <img src="dashboard.png" width="900"/>
 </p>
