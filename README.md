@@ -110,4 +110,4 @@ HR-Analytics-Dashboard/
 
 ## 💡 Repository Description (Use on GitHub)
 
-HR Analytics Dashboard built using Tableau to analyze employee attrition, salary trends, and workforce performance.
+This repository contains an interactive HR Analytics Dashboard built using Tableau. The dashboard provides key insights into workforce metrics, helping organizations make data-driven decisions.
